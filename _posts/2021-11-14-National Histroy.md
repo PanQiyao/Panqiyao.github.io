@@ -30,7 +30,7 @@ so on. On the other hand, the lists also can give users some guidance when they 
 
 ---
 layout: post
-title: 
+title: Answers about Hansard
 ---
 
 ## What kinds of research could people do using the information in Hansard as a resource?
